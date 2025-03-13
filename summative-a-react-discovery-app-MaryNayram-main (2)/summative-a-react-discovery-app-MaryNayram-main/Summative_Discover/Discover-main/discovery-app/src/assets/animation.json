@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "description": "Enhanced animation data with optimized structure",
+    "author": "System Generated"
+  },
+  "animation": {
+    "fps": 60,
+    "loop": true,
+    "frames": [
+      {
+        "id": 1,
+        "duration": 150,
+        "properties": {
+          "opacity": 1.0,
+          "scale": 1.2,
+          "rotation": 0
+        }
+      },
+      {
+        "id": 2,
+        "duration": 200,
+        "properties": {
+          "opacity": 0.8,
+          "scale": 1.4,
+          "rotation": 15
+        }
+      },
+      {
+        "id": 3,
+        "duration": 250,
+        "properties": {
+          "opacity": 0.5,
+          "scale": 1.6,
+          "rotation": 30
+        }
+      }
+    ]
+  }
+}

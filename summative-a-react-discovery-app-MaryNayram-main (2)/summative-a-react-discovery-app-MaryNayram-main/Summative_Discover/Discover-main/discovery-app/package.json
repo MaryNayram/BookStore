@@ -1,0 +1,28 @@
+{
+  "name": "book-finder-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "tsc && vite build",
+    "lint": "eslint . --fix",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "framer-motion": "^12.4.3",
+    "swiper": "^11.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.1.0",
+    "eslint": "^9.19.0",
+    "tailwindcss": "^3.4.17",
+    "postcss": "^8.5.2"
+  }
+}

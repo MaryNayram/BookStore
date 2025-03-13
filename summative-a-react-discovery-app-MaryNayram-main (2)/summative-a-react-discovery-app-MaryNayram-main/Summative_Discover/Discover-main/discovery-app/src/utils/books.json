@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "title": "The Mind of a Creator",
+    "summary": "Explore the depths of creative genius as this book unveils the psychological and artistic processes behind innovation.",
+    "author": "Liam Carter",
+    "image": "https://m.media-amazon.com/images/I/71Qe9OuoejL.jpg",
+    "publishedDate": "2022",
+    "category": "discover",
+    "specificType": "Trending"
+  },
+  {
+    "id": 102,
+    "title": "Winds of Change",
+    "summary": "A breathtaking adventure novel set in a futuristic world where nature fights back against human encroachment.",
+    "author": "Sophia Reynolds",
+    "image": "https://m.media-amazon.com/images/I/81K5YDjy3SL.jpg",
+    "publishedDate": "2023",
+    "category": "genres",
+    "specificType": "Fiction"
+  },
+  {
+    "id": 103,
+    "title": "The Algorithmic Code",
+    "summary": "A deep dive into the world of AI, exploring its ethical dilemmas, impact on humanity, and potential for the future.",
+    "author": "Dr. Eliana Vance",
+    "image": "https://m.media-amazon.com/images/I/81pbDhNjgUL._UF1000,1000_QL80_.jpg",
+    "publishedDate": "2024",
+    "category": "discover",
+    "specificType": "Technology"
+  }
+]
